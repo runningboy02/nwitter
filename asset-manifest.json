@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/nwitter/static/css/main.e3ea040b.chunk.css",
-    "main.js": "/nwitter/static/js/main.56b20e6b.chunk.js",
-    "main.js.map": "/nwitter/static/js/main.56b20e6b.chunk.js.map",
+    "main.js": "/nwitter/static/js/main.4e260492.chunk.js",
+    "main.js.map": "/nwitter/static/js/main.4e260492.chunk.js.map",
     "runtime-main.js": "/nwitter/static/js/runtime-main.088d1961.js",
     "runtime-main.js.map": "/nwitter/static/js/runtime-main.088d1961.js.map",
-    "static/js/2.6f5842be.chunk.js": "/nwitter/static/js/2.6f5842be.chunk.js",
-    "static/js/2.6f5842be.chunk.js.map": "/nwitter/static/js/2.6f5842be.chunk.js.map",
+    "static/js/2.bd139294.chunk.js": "/nwitter/static/js/2.bd139294.chunk.js",
+    "static/js/2.bd139294.chunk.js.map": "/nwitter/static/js/2.bd139294.chunk.js.map",
     "index.html": "/nwitter/index.html",
     "static/css/main.e3ea040b.chunk.css.map": "/nwitter/static/css/main.e3ea040b.chunk.css.map",
-    "static/js/2.6f5842be.chunk.js.LICENSE.txt": "/nwitter/static/js/2.6f5842be.chunk.js.LICENSE.txt"
+    "static/js/2.bd139294.chunk.js.LICENSE.txt": "/nwitter/static/js/2.bd139294.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.088d1961.js",
-    "static/js/2.6f5842be.chunk.js",
+    "static/js/2.bd139294.chunk.js",
     "static/css/main.e3ea040b.chunk.css",
-    "static/js/main.56b20e6b.chunk.js"
+    "static/js/main.4e260492.chunk.js"
   ]
 }
